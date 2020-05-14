@@ -1,0 +1,8 @@
+.Toastify__toast-body{
+    font-size: 14px;
+    color: black;
+}
+
+.Toastify__progress-bar, .Toastify__progress-bar--animated, .oastify__progress-bar--default{
+    opacity: 0 !important;
+}

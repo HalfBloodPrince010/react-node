@@ -1,0 +1,22 @@
+.SearchCard {
+margin:15px;
+margin-right:2.5px;
+margin-left:2.5px;
+box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.55);
+}
+
+.SearchCardImg {
+ height: 200px;
+ padding: 6px;
+ border: 1px solid lightgray;
+ border-bottom-left-radius: calc(.25rem - 1px);
+ border-bottom-right-radius: calc(.25rem - 1px);
+}
+
+.fav-description{
+    display: inline;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}

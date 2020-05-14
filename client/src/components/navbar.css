@@ -1,0 +1,15 @@
+.bg-custom {
+    background-image: linear-gradient(15deg, #1d2c4d 0%,#1b335b 25%, #284279 50%, #315193 75%, #4f76c9 100%);
+    }
+
+nav .nav-link {
+    font-size: 15px;
+}
+
+.form-inline .custom-control-label{
+    color: rgba(255,255,255,.75);
+}
+
+.CustomSearchBar{
+    width:200px;
+}

@@ -1,0 +1,23 @@
+div .HomepageCard{
+    margin: 10px;
+}
+
+.HomepageCardImg{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid grey;
+}
+
+.news-description{
+    overflow: hidden;
+    width:100%;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.modal-backdrop.in{
+    opacity:0.5 !important;
+}
+
+
